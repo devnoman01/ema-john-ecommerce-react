@@ -3,7 +3,7 @@
 ### Live site link:
 
 use this link to view live site:
-[https://raw.githubusercontent.com/ProgrammingHero1/ema-john-resources/main/fakeData/products.json](https://raw.githubusercontent.com/ProgrammingHero1/ema-john-resources/main/fakeData/products.json)
+[https://tourmaline-dodol-c12654.netlify.app/](https://tourmaline-dodol-c12654.netlify.app/)
 
 ### Fake data link:
 
